@@ -4,7 +4,26 @@
     color:#white !important; 
    background-image: url("https://tecnovortex.com/wp-content/uploads/2014/11/wallpaper-negro.jpg") !important
 }
+.fondo-barra{
+      background-color: #2b2c2d !important;
+        margin-right: 200px;
+}
 
+.anchura-barra{
+  margin-right: 200px;
+}
+
+.lista{
+  margin-top: 50px;
+  margin-right: 200px;
+
+}
+
+.lista2{
+
+  margin-right: 200px;
+
+}
 
 .parrafo{
 color: #c2c6c9 !important;
