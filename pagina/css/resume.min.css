@@ -1,7 +1,22 @@
  body{
      font-family:'Open Sans',serif;
     padding-top:54px;
-    color:#868e96 
+    color:#white !important; 
+   background-image: url("https://tecnovortex.com/wp-content/uploads/2014/11/wallpaper-negro.jpg") !important
+}
+
+
+.parrafo{
+color: #c2c6c9 !important;
+}
+
+.texto{
+  color: #c2c6c9 !important;
+}
+.seccion{
+  background: black;
+  opacity: 0.8;
+  margin-left: 88px !important;
 }
 
 .timeline {
@@ -155,13 +170,11 @@
 
 
 
-
-
  .opcion-menu{
      color: white !important;
 }
  .titulos{
-     color: #0b4790 !important;
+    color: white !important;
 }
  .boton{
      background: #0b4790;
@@ -170,7 +183,7 @@
      padding-top: 20%;
 }
  .menu-principal{
-     background-color: #0b4790;
+     background-color: #000000;
 }
  @media (min-width:992px){
      body{
@@ -281,7 +294,7 @@
      background-color:#bd5d38!important 
 }
  .text-primary{
-     color:#0b4790!important 
+     color: #ffffff!important;
 }
  a:active,a:focus,a:hover{
     color:#824027
